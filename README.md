@@ -19,24 +19,23 @@ This project allows you to send attendance QR codes to students via email automa
    ```bash
    git clone <your-repo-url>
    cd akademix-main
-Install dependencies:
+   ```
 
-bash
-Copy code
-pip install -r requirements.txt
-The main dependencies are:
+2. **Install dependencies:**
 
-python-dotenv
+```bash
+    pip install -r requirements.txt
+```
 
-Pillow
 
-Create a .env file
+3. **Create a .env file**
 Use the provided .env.example as a template:
 
-text
-Copy code
+```bash
 SENDER_EMAIL=your-email@gmail.com
 APP_PASSWORD=your-app-password
+```
+
 Important:
 
 SENDER_EMAIL should be your Gmail address.
