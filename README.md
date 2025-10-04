@@ -17,7 +17,7 @@ This project allows you to send attendance QR codes to students via email automa
 
 1. **Clone the repository:**
    ```bash
-   git clone <your-repo-url>
+   git clone https://github.com/GhostOutpost/Akademix-Records.git
    cd akademix-main
    ```
 
